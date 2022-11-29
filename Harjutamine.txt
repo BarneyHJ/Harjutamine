@@ -1,0 +1,2 @@
+Versiooni haldus süsteem neti kaudu. Saad üleslaadida koodi ja jagada teistega(Saab koodi saab mitu inimest hallada). 
+Vajadusel saab versiooni tagasi võtta ja eelnevaid versioone vaadata/kasutada.
