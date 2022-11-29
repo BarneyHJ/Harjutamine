@@ -1,3 +1,5 @@
 GitHub on versiooni haldus süsteem neti kaudu. Seda kasutavad põhiliselt programmeerijad.
 Saad üleslaadida koodi ja jagada teistega(Saab koodi saab mitu inimest hallada). 
 Vajadusel saab versiooni tagasi võtta ja eelnevaid versioone vaadata/kasutada.
+
+Kui ma tööle lähen siis saan kasutada seda koodi jagamiseks ja kui ma iseenda projekti loon siis saan enda koodi netti laadida ja teistega jagada.
